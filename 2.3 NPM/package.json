@@ -1,0 +1,31 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "Im learning about npm",
+  "keywords": [
+    "node",
+    "npm",
+    "backend",
+    "learning"
+  ],
+  "homepage": "https://github.com/yamurb/backend-practice#readme",
+  "bugs": {
+    "url": "https://github.com/yamurb/backend-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamurb/backend-practice.git"
+  },
+  "license": "ISC",
+  "author": "yağmur",
+  "type": "module",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  }
+}
